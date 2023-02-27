@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Simge</h1>
 <h3 align="center">I'm computer engineering student</h3>
 
-- 🌱 I’m currently learning **php,bootstrap,java**
+- 🌱 I’m currently learning **php,javascript**
 
 - 📫 How to reach me **simgeozgndndu@gmail.com**
 
